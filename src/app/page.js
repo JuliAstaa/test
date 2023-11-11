@@ -1,3 +1,5 @@
+"use client";
+
 import { FetchingData } from "@/libs/api";
 
 export default async function Home() {
